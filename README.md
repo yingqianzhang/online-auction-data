@@ -10,7 +10,6 @@ How to run:
 Packages needed:
 - Cplex: used to solve the mixed linear programming (MIP) model for optimization
 - sklearn, pandas, numpy
-- 
 
 Python files:
 - The file "auction_opt_AMAI.py" optimizes the auction using a MIP.
@@ -22,24 +21,24 @@ Python files:
 
 
 Input data files, in folder "data_3":
-	- LP_tree_FULL_test_data_1.csv
-	- LP_tree_FULL_test_data_2.csv
-	- LP_tree_FULL_test_data_3.csv
-	- LP_tree_FULL_test_data_4.csv
-	- LP_tree_FULL_test_data_5.csv
-	- LP_tree_optimize_test_data_1.csv
-	- LP_tree_optimize_test_data_2.csv
-	- LP_tree_optimize_test_data_3.csv
-	- LP_tree_optimize_test_data_4.csv
-	- LP_tree_optimize_test_data_5.csv
-	- LP_tree_train_data.csv
-
+- LP_tree_train_data.csv
+- LP_tree_FULL_test_data_1.csv
+- LP_tree_FULL_test_data_2.csv
+- LP_tree_FULL_test_data_3.csv
+- LP_tree_FULL_test_data_4.csv
+- LP_tree_FULL_test_data_5.csv
+- LP_tree_optimize_test_data_1.csv
+- LP_tree_optimize_test_data_2.csv
+- LP_tree_optimize_test_data_3.csv
+- LP_tree_optimize_test_data_4.csv
+- LP_tree_optimize_test_data_5.csv
+ 
 
 Output data files:
--	If you run "auction_opt_AMAI.py" with "test_nr = X" this will create the following files in the folder "data_3":
-		- RESULT_DESIGN_v1_test_X.xlsx
-		- RESULT_DESIGN_v1_TBA_test_X.xlsx
--	The file "RESULT_DESIGN_v1_TBA_test_X.xlsx" contains the result of the auction optimization. 
+- If you run "auction_opt_AMAI.py" with "test_nr = X" this will create the following files in the folder "data_3":
+	- RESULT_DESIGN_v1_test_X.xlsx
+	- RESULT_DESIGN_v1_TBA_test_X.xlsx
+- The file "RESULT_DESIGN_v1_TBA_test_X.xlsx" contains the result of the auction optimization. 
 	The column "LotNr_NEW_sorted" contains the new LotNr.
 	The column "SP_NEW" contains the new value for the starting price (SP).
 	The column "yClass_MIP" contains the class prediction after optimization with  the MIP and after post-processing.
