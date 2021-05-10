@@ -1,0 +1,44 @@
+LotNrRel;Allocate;EstValue;StartPrice;LotsSale;LotsSaleMain;LotsSaleSub;Weekday;SP.EV;SaleNumber;LotNr;Mult;yData;MainCategory;SubCategory;SaleDate;Status;Branch
+0.0011947431302270011;0;12500.0;7500.0;702;1;1;5;0.6;19759;1;0.616;1.0;Boats;Yachts;07-11-2014 10:00:00;sold;Agricultural industry
+0.003584229390681004;0;500.0;250.0;702;11;3;5;0.5;19759;3;0.58;1.0;Vehicles / Rolling stock;Cars;07-11-2014 10:00:00;sold;Agricultural industry
+0.0047789725209080045;0;500.0;250.0;702;11;3;5;0.5;19759;4;0.62;1.0;Vehicles / Rolling stock;Cars;07-11-2014 10:00:00;sold;Agricultural industry
+0.007168458781362006;0;400.0;200.0;702;379;96;5;0.5;19759;6;0.5;1.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.008363201911589008;0;400.0;200.0;702;379;96;5;0.5;19759;7;0.5;1.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.06451612903225806;0;750.0;500.0;702;284;38;5;0.6666666666666666;19759;54;1.3333333333333333;2.0;Horeca-catering;Cooking / baking / grilling;07-11-2014 10:00:00;sold;Agricultural industry
+0.0991636798088411;0;200.0;100.0;702;284;47;5;0.5;19759;83;0.5;1.0;Horeca-catering;Hot-air ovens-steamers-microwaves;07-11-2014 10:00:00;sold;Agricultural industry
+0.10752688172043012;0;400.0;200.0;702;379;96;5;0.5;19759;90;0.5;1.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.16009557945041816;0;200.0;100.0;702;379;35;5;0.5;19759;134;0.5;1.0;Miscellaneous;Furniture;07-11-2014 10:00:00;sold;Agricultural industry
+0.24133811230585425;0;250.0;175.0;702;284;71;5;0.7;19759;202;0.7;1.0;Horeca-catering;Cooling and freezing;07-11-2014 10:00:00;sold;Agricultural industry
+0.25806451612903225;0;250.0;150.0;702;284;71;5;0.6;19759;216;0.6;1.0;Horeca-catering;Cooling and freezing;07-11-2014 10:00:00;sold;Agricultural industry
+0.2664277180406213;0;350.0;250.0;702;284;71;5;0.7142857142857143;19759;223;1.4285714285714286;2.0;Horeca-catering;Cooling and freezing;07-11-2014 10:00:00;sold;Agricultural industry
+0.3046594982078853;0;200.0;100.0;702;284;38;5;0.5;19759;255;0.55;1.0;Horeca-catering;Cooking / baking / grilling;07-11-2014 10:00:00;sold;Agricultural industry
+0.31780167264038234;0;200.0;100.0;702;284;38;5;0.5;19759;266;0.55;1.0;Horeca-catering;Cooking / baking / grilling;07-11-2014 10:00:00;sold;Agricultural industry
+0.3189964157706093;0;500.0;250.0;702;379;27;5;0.5;19759;267;0.5;1.0;Miscellaneous;Decoration;07-11-2014 10:00:00;sold;Agricultural industry
+0.3476702508960573;0;200.0;100.0;702;379;96;5;0.5;19759;291;0.5;1.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.35125448028673834;0;500.0;300.0;702;284;38;5;0.6;19759;294;0.64;1.0;Horeca-catering;Cooking / baking / grilling;07-11-2014 10:00:00;sold;Agricultural industry
+0.3536439665471924;0;300.0;150.0;702;284;47;5;0.5;19759;296;0.5;1.0;Horeca-catering;Hot-air ovens-steamers-microwaves;07-11-2014 10:00:00;sold;Agricultural industry
+0.3548387096774194;0;300.0;150.0;702;284;4;5;0.5;19759;297;0.5666666666666667;1.0;Horeca-catering;Dish washers;07-11-2014 10:00:00;sold;Agricultural industry
+0.3608124253285544;0;300.0;200.0;702;284;4;5;0.6666666666666666;19759;302;0.9666666666666668;2.0;Horeca-catering;Dish washers;07-11-2014 10:00:00;sold;Agricultural industry
+0.3715651135005974;0;500.0;350.0;702;379;11;5;0.7;19759;311;0.7;1.0;Miscellaneous;Climate control;07-11-2014 10:00:00;sold;Agricultural industry
+0.3739545997610514;0;500.0;300.0;702;6;6;5;0.6;19759;313;0.6;1.0;Garden, park & agriculture;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.3751493428912784;0;500.0;300.0;702;6;6;5;0.6;19759;314;0.64;1.0;Garden, park & agriculture;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.37873357228195936;0;500.0;300.0;702;6;6;5;0.6;19759;317;0.82;2.0;Garden, park & agriculture;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.4432497013142174;0;200.0;100.0;702;284;64;5;0.5;19759;371;0.93;2.0;Horeca-catering;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.5878136200716846;0;200.0;100.0;702;379;28;5;0.5;19759;492;0.6;1.0;Miscellaneous;Sport and games;07-11-2014 10:00:00;sold;Agricultural industry
+0.6129032258064516;0;300.0;150.0;702;379;36;5;0.5;19759;513;0.5;1.0;Miscellaneous;Stock;07-11-2014 10:00:00;sold;Agricultural industry
+0.6152927120669056;0;200.0;100.0;702;379;36;5;0.5;19759;515;1.0;2.0;Miscellaneous;Stock;07-11-2014 10:00:00;sold;Agricultural industry
+0.6164874551971327;0;200.0;100.0;702;379;96;5;0.5;19759;516;1.0;2.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.6654719235364397;0;200.0;50.0;702;379;27;5;0.25;19759;557;0.6;1.0;Miscellaneous;Decoration;07-11-2014 10:00:00;sold;Agricultural industry
+0.7885304659498208;0;300.0;150.0;702;284;71;5;0.5;19759;660;0.5833333333333334;1.0;Horeca-catering;Cooling and freezing;07-11-2014 10:00:00;sold;Agricultural industry
+0.7909199522102748;0;400.0;200.0;702;379;20;5;0.5;19759;662;1.25;2.0;Miscellaneous;Cleaning tools;07-11-2014 10:00:00;sold;Agricultural industry
+0.7921146953405018;0;400.0;200.0;702;379;20;5;0.5;19759;663;1.35;2.0;Miscellaneous;Cleaning tools;07-11-2014 10:00:00;sold;Agricultural industry
+0.7968936678614098;0;400.0;200.0;702;379;20;5;0.5;19759;667;1.35;2.0;Miscellaneous;Cleaning tools;07-11-2014 10:00:00;sold;Agricultural industry
+0.7992831541218638;0;400.0;250.0;702;379;96;5;0.625;19759;669;1.3;2.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.8004778972520908;0;250.0;150.0;702;379;96;5;0.6;19759;670;0.76;1.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.8016726403823178;0;250.0;150.0;702;379;96;5;0.6;19759;671;0.72;1.0;Miscellaneous;Miscellaneous;07-11-2014 10:00:00;sold;Agricultural industry
+0.8829151732377539;0;200.0;100.0;702;284;38;5;0.5;19759;739;0.75;1.0;Horeca-catering;Cooking / baking / grilling;07-11-2014 10:00:00;sold;Agricultural industry
+0.8864994026284349;0;400.0;250.0;702;284;18;5;0.625;19759;742;0.825;2.0;Horeca-catering;Coffee machines / warm drinks machines;07-11-2014 10:00:00;sold;Agricultural industry
+0.8912783751493429;0;400.0;200.0;702;284;4;5;0.5;19759;746;1.125;2.0;Horeca-catering;Dish washers;07-11-2014 10:00:00;sold;Agricultural industry
+0.8948626045400239;0;600.0;300.0;702;284;47;5;0.5;19759;749;0.8666666666666667;2.0;Horeca-catering;Hot-air ovens-steamers-microwaves;07-11-2014 10:00:00;sold;Agricultural industry
+0.990442054958184;0;300.0;150.0;702;379;78;5;0.5;19759;829;0.5;1.0;Miscellaneous;Lighting;07-11-2014 10:00:00;sold;Agricultural industry
+1.0;0;500.0;250.0;702;379;78;5;0.5;19759;837;0.5;1.0;Miscellaneous;Lighting;07-11-2014 10:00:00;sold;Agricultural industry

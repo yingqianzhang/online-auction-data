@@ -1,0 +1,32 @@
+LotNrRel;Allocate;EstValue;StartPrice;LotsSale;LotsSaleMain;LotsSaleSub;Weekday;SP.EV;SaleNumber;LotNr;Mult;yData;MainCategory;SubCategory;SaleDate;Status;Branch
+0.004784688995215311;1;1800.0;200.0;219;61;7;1;0.1111111111111111;19501;1;0.45;1.0;Multimedia-Telecom-IT;Printers;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.009569377990430622;0;300.0;150.0;219;61;9;1;0.5;19501;2;2.1666666666666665;2.0;Multimedia-Telecom-IT;Miscellaneous;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.014354066985645932;0;400.0;5.0;219;61;14;1;0.0125;19501;3;0.0125;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.019138755980861243;0;400.0;5.0;219;61;14;1;0.0125;19501;4;0.0125;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.023923444976076555;0;400.0;5.0;219;61;14;1;0.0125;19501;5;0.0125;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.02870813397129187;1;400.0;5.0;219;61;14;1;0.0125;19501;6;0.0175;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.03349282296650718;1;400.0;5.0;219;61;14;1;0.0125;19501;7;0.0125;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.03827751196172249;0;200.0;5.0;219;61;14;1;0.025;19501;8;0.025;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.0430622009569378;0;200.0;5.0;219;61;14;1;0.025;19501;9;0.025;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.04784688995215311;0;200.0;5.0;219;61;14;1;0.025;19501;10;0.025;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.05263157894736842;0;200.0;5.0;219;61;14;1;0.025;19501;11;0.225;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.057416267942583726;0;200.0;5.0;219;61;14;1;0.025;19501;12;0.025;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.06698564593301436;0;200.0;80.0;219;61;14;1;0.4;19501;14;0.4;1.0;Multimedia-Telecom-IT;Server room;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.4066985645933015;1;300.0;150.0;219;147;9;1;0.5;19501;85;0.0;0.0;Office inventory;Canteen;06-10-2014 10:00:00;unsold;Construction and earthmoving industry
+0.4449760765550239;0;200.0;100.0;219;147;28;1;0.5;19501;93;0.5;1.0;Office inventory;Cabinets;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.4497607655502393;1;800.0;500.0;219;147;9;1;0.625;19501;94;0.0;0.0;Office inventory;Canteen;06-10-2014 10:00:00;unsold;Construction and earthmoving industry
+0.4545454545454545;1;250.0;200.0;219;147;9;1;0.8;19501;95;0.0;0.0;Office inventory;Canteen;06-10-2014 10:00:00;unsold;Construction and earthmoving industry
+0.4880382775119617;0;400.0;5.0;219;147;12;1;0.0125;19501;102;0.025;1.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.5263157894736842;0;300.0;150.0;219;147;12;1;0.5;19501;110;1.2;2.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.5693779904306221;0;200.0;80.0;219;147;12;1;0.4;19501;119;0.4;1.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.5933014354066986;0;200.0;150.0;219;147;12;1;0.75;19501;124;1.0;2.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.6124401913875598;0;250.0;5.0;219;147;12;1;0.02;19501;128;0.02;1.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.6172248803827751;0;250.0;150.0;219;147;12;1;0.6;19501;129;1.28;2.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.6220095693779905;0;400.0;200.0;219;147;11;1;0.5;19501;130;0.925;2.0;Office inventory;Tables;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.7177033492822966;0;200.0;100.0;219;147;12;1;0.5;19501;150;0.55;1.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.7224880382775121;0;400.0;200.0;219;147;11;1;0.5;19501;151;1.225;2.0;Office inventory;Tables;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.7272727272727273;0;250.0;5.0;219;147;12;1;0.02;19501;152;0.02;1.0;Office inventory;Desks;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.8612440191387559;0;500.0;10.0;219;147;9;1;0.02;19501;180;0.38;1.0;Office inventory;Canteen;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.8660287081339713;0;500.0;10.0;219;147;9;1;0.02;19501;181;0.4;1.0;Office inventory;Canteen;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.985645933014354;0;200.0;5.0;219;61;9;1;0.025;19501;206;0.025;1.0;Multimedia-Telecom-IT;Miscellaneous;06-10-2014 10:00:00;sold;Construction and earthmoving industry
+0.9904306220095692;0;200.0;75.0;219;61;9;1;0.375;19501;207;4.5;2.0;Multimedia-Telecom-IT;Miscellaneous;06-10-2014 10:00:00;sold;Construction and earthmoving industry
